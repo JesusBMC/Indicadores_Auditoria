@@ -1,0 +1,41 @@
+test_excel_y_pdf (__main__.PruebasExportaciones.test_excel_y_pdf) ... ERROR
+
+======================================================================
+ERROR: test_excel_y_pdf (__main__.PruebasExportaciones.test_excel_y_pdf)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\jparrap\\AppData\\Local\\Temp\\tmpsluyjvop\\resultado_indicador.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\pruebas\test_exportaciones.py", line 21, in test_excel_y_pdf
+    with tempfile.TemporaryDirectory() as tmp:
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\tempfile.py", line 1051, in __exit__
+    self.cleanup()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\tempfile.py", line 1055, in cleanup
+    self._rmtree(self.name, ignore_errors=self._ignore_cleanup_errors)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\tempfile.py", line 1035, in _rmtree
+    _shutil.rmtree(name, onexc=onexc, dir_fd=dir_fd, _onexc_kwargs=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\shutil.py", line 859, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jparrap\AppData\Local\Python\pythoncore-3.15-64\Lib\tempfile.py", line 1002, in onexc
+    _os.unlink(base, dir_fd=dir_fd)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\jparrap\\AppData\\Local\\Temp\\tmpsluyjvop\\resultado_indicador.xlsx'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.654s
+
+FAILED (errors=1)

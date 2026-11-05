@@ -1,0 +1,21 @@
+test_acumulado_no_incluye_evento_evaluado (__main__.PruebasMensuales.test_acumulado_no_incluye_evento_evaluado) ... ok
+test_calendario_faltante_y_ultima_corrida (__main__.PruebasMensuales.test_calendario_faltante_y_ultima_corrida) ... ok
+test_conversion_decimal_incoherente (__main__.PruebasMensuales.test_conversion_decimal_incoherente) ... ERROR
+test_copia_de_fuentes_usa_ruta_corta_y_categoria (__main__.PruebasMensuales.test_copia_de_fuentes_usa_ruta_corta_y_categoria) ... ok
+test_fuentes_superpuestas_y_conflicto (__main__.PruebasMensuales.test_fuentes_superpuestas_y_conflicto) ... ok
+test_mes_invalido (__main__.PruebasMensuales.test_mes_invalido) ... ok
+test_trazabilidad_cub_convierte_pagina_numerica_a_texto (__main__.PruebasMensuales.test_trazabilidad_cub_convierte_pagina_numerica_a_texto) ... ok
+
+======================================================================
+ERROR: test_conversion_decimal_incoherente (__main__.PruebasMensuales.test_conversion_decimal_incoherente)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\pruebas\test_ejecucion_mensual.py", line 68, in test_conversion_decimal_incoherente
+    m.validar_coherencia_base(fila, 1)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: validar_coherencia_base() takes 1 positional argument but 2 were given
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.670s
+
+FAILED (errors=1)

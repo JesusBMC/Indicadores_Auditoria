@@ -1,0 +1,6 @@
+test_excel_y_pdf (test_exportaciones.PruebasExportaciones.test_excel_y_pdf) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 1.460s
+
+OK

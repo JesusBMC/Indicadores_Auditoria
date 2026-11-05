@@ -1,0 +1,34 @@
+Indicador MCP v1.7.0. Cargando fuentes XLSX...
+Calculando 2026-01...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-01_20261030095454
+Tiempo de ejecución del mes (fuentes ya cargadas): 17.60 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-02...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-02_20261030095506
+Tiempo de ejecución del mes (fuentes ya cargadas): 11.50 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-03...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-03_20261030095521
+Tiempo de ejecución del mes (fuentes ya cargadas): 15.04 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-04...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-04_20261030095545
+Tiempo de ejecución del mes (fuentes ya cargadas): 23.95 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-05...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-05_20261030095557
+Tiempo de ejecución del mes (fuentes ya cargadas): 12.00 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-06...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-06_20261030095611
+Tiempo de ejecución del mes (fuentes ya cargadas): 14.19 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-07...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-07_20261030095624
+Tiempo de ejecución del mes (fuentes ya cargadas): 13.87 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Calculando 2026-08...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2026-08_20261030095649
+Tiempo de ejecución del mes (fuentes ya cargadas): 23.68 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Tiempo total de ejecución (incluye carga de fuentes): 146.97 segundos

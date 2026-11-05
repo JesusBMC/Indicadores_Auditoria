@@ -1,0 +1,14 @@
+..E....
+======================================================================
+ERROR: test_conversion_decimal_incoherente (__main__.PruebasMensuales.test_conversion_decimal_incoherente)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\pruebas\test_ejecucion_mensual.py", line 68, in test_conversion_decimal_incoherente
+    m.validar_coherencia_base(fila, 1)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: validar_coherencia_base() takes 1 positional argument but 2 were given
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.173s
+
+FAILED (errors=1)

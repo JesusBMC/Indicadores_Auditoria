@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Indicador 01 · Tarifas MCP</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: #f4f6f8; color: #1d2733; }
+    header { background: #1f3a5f; color: #fff; padding: 12px 20px; }
+    header h1 { font-size: 18px; margin: 0; }
+    .barra { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 12px 20px; background: #fff; border-bottom: 1px solid #d9e0e7; }
+    select, button { font-size: 14px; padding: 6px 10px; }
+    button { cursor: pointer; }
+    button:disabled { opacity: 0.5; cursor: default; }
+    #estado { font-size: 13px; color: #4a5968; }
+    #alerta { display: none; margin: 12px 20px; padding: 10px 14px; border-left: 4px solid #b7791f; background: #fff8e6; font-size: 14px; }
+    #alerta ul { margin: 6px 0 0 18px; padding: 0; }
+    #info { padding: 8px 20px; font-size: 13px; color: #4a5968; }
+    iframe { width: calc(100% - 40px); height: calc(100vh - 170px); margin: 0 20px 20px; border: 1px solid #d9e0e7; background: #fff; }
+  </style>
+</head>
+<body>
+  <header><h1>Indicador 01 · Tarifas MCP</h1></header>
+  <div class="barra">
+    <label for="mes">Mes a evaluar</label>
+    <select id="mes"></select>
+    <button id="actualizar" type="button">Actualizar datos</button>
+    <span id="estado"></span>
+  </div>
+  <div id="alerta">
+    <strong id="alerta-titulo"></strong>
+    <ul id="alerta-lista"></ul>
+  </div>
+  <div id="info"></div>
+  <iframe id="vista" title="Dashboard del indicador"></iframe>
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()
+c:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\codigo\indicador_01_tarifas_mcp.py:733: UserWarning: Discarding nonzero nanoseconds in conversion.
+  return valor.to_pydatetime()

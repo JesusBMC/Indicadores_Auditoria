@@ -1,0 +1,6 @@
+Indicador MCP v1.7.0. Cargando fuentes XLSX...
+Calculando 2025-11...
+Ejecución finalizada. Resultados: C:\Users\jparrap\Proyectos-BMC\Indicadores_Auditoria\Indicador_01_Tarifas_MCP\.agents\verificacion\referencia_original\resultados\2025-11_20261030095728
+Tiempo de ejecución del mes (fuentes ya cargadas): 18.42 segundos
+NOTA PARA AUDITOR: Control histórico: 7 operaciones presentan diferencias internas entre valor, tarifa reportada y cobro (48933847, 48933972, 50801602, 55735660, 56526927). Se usan solo como antecedente; revise su efecto si soportan acumulados de adiciones.
+Tiempo total de ejecución (incluye carga de fuentes): 23.09 segundos
